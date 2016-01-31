@@ -2,6 +2,24 @@
 
 # Changelog
 
+## PRE_ALPHA v0.16.01.31
+Released: 31/01/2016
+
+**Fixed bugs:**
+
+- Settings Toolbar Display Bug - [Fix here](https://github.com/davcpas1234/MaterialSettings/issues/1)
+- JSON cache Issues on post-L devices - PHP Based Fix
+
+**Added:**
+
+- User Profile Picture
+- Account View Implementation
+
+**Other:**
+
+- Misc changes to UI
+
+
 ## PRE_ALPHA v0.16.01.26
 Released: 26/01/2016
 
@@ -12,6 +30,7 @@ Released: 26/01/2016
 **Added:**
 
 - Account Verification Activity
+- Account View Activity (Placeholder Only)
 
 **Other:**
 
