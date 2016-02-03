@@ -12,6 +12,9 @@ Released: 03/02/2016
 - Navigation Drawer Selection issues
   - `StackOverflowError` when parsing selected fragements
   - UI bug when navigating away from activity (not selecting last fragement viewed)
+- Major Tracking Event Issues
+  - Errors with JSON pull (PHP Based FIX)
+  - Errors with data interpretation
 
 
 **Added:**
