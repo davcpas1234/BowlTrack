@@ -1,6 +1,27 @@
-# BowlTrack
+# BowlTrack App (Mobile and Web)
+
+Open repository (for dev use only) to track changes and log open bugs with the app(s)
 
 # Changelog
+
+## PRE_ALPHA v0.16.02.03
+Released: 03/02/2016
+
+**Fixed bugs:**
+
+- Navigation Drawer Selection issues
+  - `StackOverflowError` when parsing selected fragements
+  - UI bug when navigating away from activity (not selecting last fragement viewed)
+
+
+**Added:**
+
+- Tracking Options
+- Main Menu Fragement Manager
+
+**Other:**
+
+- Misc changes to Navigation Layouts
 
 ## PRE_ALPHA v0.16.01.31
 Released: 31/01/2016
@@ -18,6 +39,7 @@ Released: 31/01/2016
 **Other:**
 
 - Misc changes to UI
+- Changes to Navigation Drawer options
 
 
 ## PRE_ALPHA v0.16.01.26
