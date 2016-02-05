@@ -16,7 +16,6 @@ Released: 03/02/2016
   - Errors with JSON pull (PHP Based FIX)
   - Errors with data interpretation
 
-
 **Added:**
 
 - Tracking Options
