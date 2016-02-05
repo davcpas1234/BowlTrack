@@ -4,6 +4,22 @@ Open repository (for dev use only) to track changes and log open bugs with the a
 
 # Changelog
 
+## PRE_ALPHA v0.16.02.05
+Released: 05/02/2016
+
+**Fixed bugs:**
+
+- `SplashScreen` style issues with dialogs
+- Major update bug (`Intent.ACTION_VIEW`)
+
+**Added:**
+
+- Tracking Events + Refresh utility
+
+**Other:**
+
+- Code cleanup
+
 ## PRE_ALPHA v0.16.02.03
 Released: 03/02/2016
 
@@ -18,7 +34,7 @@ Released: 03/02/2016
 
 **Added:**
 
-- Tracking Options
+- Tracking Options (Navigation)
 - Main Menu Fragement Manager
 
 **Other:**
