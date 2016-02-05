@@ -2,6 +2,10 @@
 
 Open repository (for dev use only) to track changes and log open bugs with the app(s)
 
+# Compatibility
+
+The application is compatible with Android 4.2 and above.
+
 # Changelog
 
 ## PRE_ALPHA v0.16.02.05
