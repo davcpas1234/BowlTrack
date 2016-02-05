@@ -15,6 +15,7 @@ Released: 05/02/2016
 **Added:**
 
 - Tracking Events + Refresh utility
+- WebFormHelperActivity
 
 **Other:**
 
