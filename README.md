@@ -26,6 +26,7 @@ Released: 06/02/2016
 **Other:**
 
 - Code cleanup
+- Settings Cleanup
 
 ## PRE_ALPHA v0.16.02.03
 Released: 03/02/2016
