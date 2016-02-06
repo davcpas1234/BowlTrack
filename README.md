@@ -8,18 +8,20 @@ The application is compatible with Android 4.2 and above.
 
 # Changelog
 
-## PRE_ALPHA v0.16.02.05
-Released: 05/02/2016
+## PRE_ALPHA v0.16.02.06
+Released: 06/02/2016
 
 **Fixed bugs:**
 
 - `SplashScreen` style issues with dialogs
 - Major update bug (`Intent.ACTION_VIEW`)
+- Bug with "Back" flow on Main Menu
 
 **Added:**
 
 - Tracking Events + Refresh utility
 - WebFormHelperActivity
+- BowlTrack WebInterface & equivalent errors
 
 **Other:**
 
