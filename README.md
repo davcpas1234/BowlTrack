@@ -19,7 +19,10 @@ Released: 06/02/2016
 
 **Added:**
 
-- Tracking Events + Refresh utility
+- Tracking Events + Refresh utility + Options dialog
+- Tracking Event WebForms
+  - Create
+  - Edit
 - WebFormHelperActivity
 - BowlTrack WebInterface & equivalent errors
 
