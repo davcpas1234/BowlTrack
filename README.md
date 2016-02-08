@@ -18,7 +18,7 @@ Released: 08/02/2016
 **Added:**
 
 - Delete Tracking Events
-- 
+
 **Other:**
 
 - Minor UI corrections
