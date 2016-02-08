@@ -13,7 +13,7 @@ Released: 08/02/2016
 
 **Fixed bugs:**
 
-- Tracking Events Refresh Bug (after deletion, would not delete correct event.)
+- Tracking Events Refresh Bug (after deletion, would not update list correctly.)
 
 **Added:**
 
