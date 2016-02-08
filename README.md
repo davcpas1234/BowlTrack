@@ -8,6 +8,21 @@ The application is compatible with Android 4.2 and above.
 
 # Changelog
 
+## PRE_ALPHA v0.16.02.08
+Released: 08/02/2016
+
+**Fixed bugs:**
+
+- Tracking Events Refresh Bug (after deletion, would not delete correct event.)
+
+**Added:**
+
+- Delete Tracking Events
+- 
+**Other:**
+
+- Minor UI corrections
+
 ## PRE_ALPHA v0.16.02.06
 Released: 06/02/2016
 
