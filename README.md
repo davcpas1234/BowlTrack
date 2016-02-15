@@ -8,6 +8,21 @@ The application is compatible with Android 4.2 and above.
 
 # Changelog
 
+## PRE_ALPHA v0.16.02.15
+Released: 15/02/2016
+
+**Fixed bugs:**
+
+- First Login Crash where drawer is not initialised
+
+**Added:**
+
+- Find a Centre
+
+**Other:**
+
+- Minor UI corrections
+
 ## PRE_ALPHA v0.16.02.08
 Released: 08/02/2016
 
